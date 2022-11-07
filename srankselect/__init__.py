@@ -1,1 +1,1 @@
-from srankselect.SRank import SRank
+from srankselect.s_rank import SRank
